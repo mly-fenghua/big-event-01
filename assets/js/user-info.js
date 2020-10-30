@@ -38,7 +38,7 @@ $(function() {
             if (confirm('是否重置？')) {
                 initUserInfo();
             }
-
+            9
 
         })
         // 修改内容
