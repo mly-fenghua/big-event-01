@@ -10,6 +10,7 @@ const options = {
     // 1.3 创建裁剪区域 
 $image.cropper(options)
 
+
 $('#btnChooseImg').on('click', function() {
         $('#file').click()
     })
